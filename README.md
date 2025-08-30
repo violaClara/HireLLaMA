@@ -1,7 +1,7 @@
 # ⚡ HireLLaMA (LLaMA + RAG)
 
 An AI-powered assistant that helps recruiters summarize resumes, extract skills, and answer queries about candidates.  
-Built with **LLaMA (via Ollama)**, **ChromaDB**, and **SentenceTransformers** — this project demonstrates how open-source AI can streamline hiring.
+Built with **LLaMA (via Ollama)**, **ChromaDB**, and **SentenceTransformers**  this project demonstrates how open-source AI can streamline hiring.
 
 ---
 
