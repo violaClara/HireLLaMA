@@ -5,7 +5,7 @@ Built with **LLaMA (via Ollama)**, **ChromaDB**, and **SentenceTransformers**  t
 
 ---
 
-## ✨ Key Features
+##  Key Features
 -  **Resume Parsing**: Extract text from PDF CVs using `pdfplumber`.
 -  **Semantic Search**: Store and retrieve CVs via **ChromaDB** with embeddings from `SentenceTransformers`.
 -  **AI Summarization**: Use **LLaMA (Ollama)** to generate concise summaries of candidate CVs.
@@ -14,7 +14,7 @@ Built with **LLaMA (via Ollama)**, **ChromaDB**, and **SentenceTransformers**  t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: Next.js + TailwindCSS (Recruiter Dashboard)
 - **Backend**: FastAPI (Python)
 - **AI Model**: Meta LLaMA (via Ollama)
